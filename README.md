@@ -35,7 +35,9 @@ for i in range(len(X)):
 
 ```
 ## Output :
-<img width="694" height="528" alt="Screenshot 2025-10-30 115758" src="https://github.com/user-attachments/assets/28e11773-e0fa-4da2-b015-edfc338b0dbc" />
+![IMG_20251218_111212](https://github.com/user-attachments/assets/a095125f-151a-4b38-b4fc-83742c7081e1)
+
+![IMG_20251218_111237](https://github.com/user-attachments/assets/cfcd6c77-d38c-4f9a-ab9b-fa111b0bdce2)
 
 
 ## Result
